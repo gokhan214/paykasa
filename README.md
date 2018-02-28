@@ -1,0 +1,2 @@
+# paykasa
+yasal uyari document
